@@ -6,6 +6,4 @@ comments: true
 categories: tech
 ---
 
-# TITLE
-
-## HELLO?
+omfg?

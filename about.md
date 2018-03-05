@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Senior SW Engineer at CDNetworks.
+# Senior SW Engineer at CDNetworks. 
+
+> 2013.09 ~ Now
 
 ---
 
