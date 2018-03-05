@@ -1,6 +1,6 @@
 # Site settings
 title: Your awesome title
-email: knbaek@gmai.com
+email: knbaek@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cloudsnack.github.io" # the base hostname & protocol for your site
 
