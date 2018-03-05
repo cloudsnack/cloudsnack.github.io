@@ -1,1 +1,20 @@
-theme: jekyll-theme-architect
+# Site settings
+title: Your awesome title
+email: knbaek@gmai.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cloudsnack.github.io" # the base hostname & protocol for your site
+
+# Sidebar settings
+description: Backend/Python. Like DevOPS
+
+# Social icons
+# facebook: username
+linkedin: sandbag
+github: cloudsnack
+#deviantart: username
+#codepen: username
+
+footer: ©Taken theme
+
+# Build settings
+markdown: kramdown
