@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NGINX reverse proxy setting with Elasticsearch-KIBANA"
-date:   2016-05-12 22:02:01 -0500
+date:   2018-03-07 14:39:25 +0900
 comments: true
 categories: tech
 ---
